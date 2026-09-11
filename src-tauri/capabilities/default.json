@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Default capability for the main window. TypeTester is fully offline and only needs the core window/invocation permissions.",
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}

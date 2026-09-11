@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TypeTester</string>
+    <string name="title_activity_main">TypeTester</string>
+    <string name="package_name">com.typetester.app</string>
+    <string name="custom_url_scheme">com.typetester.app</string>
+</resources>

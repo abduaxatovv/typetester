@@ -1,0 +1,7 @@
+# Rust / Tauri build output
+target/
+gen/schemas
+node_modules
+
+# Local build artifacts
+*.rs.bk
